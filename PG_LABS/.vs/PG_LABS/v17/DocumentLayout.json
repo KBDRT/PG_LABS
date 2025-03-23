@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\GitHub\\PG_LABS\\PG_LABS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|K:\\GitHub\\PG_LABS\\PG_LABS\\pg_labs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|solutionrelative:pg_labs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|K:\\GitHub\\PG_LABS\\PG_LABS\\pg_labs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|solutionrelative:pg_labs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|K:\\GitHub\\PG_LABS\\PG_LABS\\pg_labs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|solutionrelative:pg_labs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|K:\\GitHub\\PG_LABS\\PG_LABS\\pg_labs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|solutionrelative:pg_labs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|k:\\github\\pg_labs\\pg_labs\\pg_labs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|solutionrelative:pg_labs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|K:\\GitHub\\PG_LABS\\PG_LABS\\pg_labs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|solutionrelative:pg_labs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|k:\\github\\pg_labs\\pg_labs\\pg_labs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|solutionrelative:pg_labs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|K:\\GitHub\\PG_LABS\\PG_LABS\\pg_labs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A560-ABAD-4B1A-8540-C340ACAAD52F}|PG_LABS\\PG_LABS.csproj|solutionrelative:pg_labs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form4.cs",
+              "RelativeDocumentMoniker": "PG_LABS\\Form4.cs",
+              "ToolTip": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form4.cs",
+              "RelativeToolTip": "PG_LABS\\Form4.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:48:31.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form4.cs",
+              "RelativeDocumentMoniker": "PG_LABS\\Form4.cs",
+              "ToolTip": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PG_LABS\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:57:13.967Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form3.cs",
+              "RelativeDocumentMoniker": "PG_LABS\\Form3.cs",
+              "ToolTip": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form3.cs",
+              "RelativeToolTip": "PG_LABS\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:43:34.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form3.cs",
+              "RelativeDocumentMoniker": "PG_LABS\\Form3.cs",
+              "ToolTip": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PG_LABS\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:25:04.289Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form2.cs",
+              "RelativeDocumentMoniker": "PG_LABS\\Form2.cs",
+              "ToolTip": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PG_LABS\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:38:09.791Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form1.cs",
+              "RelativeDocumentMoniker": "PG_LABS\\Form1.cs",
+              "ToolTip": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form1.cs",
+              "RelativeToolTip": "PG_LABS\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:00:22.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form1.cs",
+              "RelativeDocumentMoniker": "PG_LABS\\Form1.cs",
+              "ToolTip": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PG_LABS\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:56:43.608Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form2.cs",
+              "RelativeDocumentMoniker": "PG_LABS\\Form2.cs",
+              "ToolTip": "K:\\GitHub\\PG_LABS\\PG_LABS\\PG_LABS\\Form2.cs",
+              "RelativeToolTip": "PG_LABS\\Form2.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:39:20.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
