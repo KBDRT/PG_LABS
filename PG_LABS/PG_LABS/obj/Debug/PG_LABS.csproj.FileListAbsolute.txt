@@ -18,3 +18,4 @@ K:\GitHub\PG_LABS\PG_LABS\PG_LABS\obj\Debug\PG_LABS.Form1.resources
 K:\GitHub\PG_LABS\PG_LABS\PG_LABS\obj\Debug\PG_LABS.Form2.resources
 K:\GitHub\PG_LABS\PG_LABS\PG_LABS\obj\Debug\PG_LABS.Form3.resources
 K:\GitHub\PG_LABS\PG_LABS\PG_LABS\obj\Debug\PG_LABS.Form4.resources
+K:\GitHub\PG_LABS\PG_LABS\PG_LABS\obj\Debug\PG_LABS.Form5.resources

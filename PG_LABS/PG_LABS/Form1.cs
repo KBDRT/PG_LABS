@@ -60,20 +60,23 @@ namespace PG_LABS
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            Form2 f2 = new Form2();
-            f2.ShowDialog();
+            new Form2().ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form3 f2 = new Form3();
-            f2.ShowDialog();
+            new Form3().ShowDialog();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Form4 f2 = new Form4();
-            f2.ShowDialog();
+            new Form4().ShowDialog();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            new Form5().ShowDialog();
+        }
+
     }
 }
