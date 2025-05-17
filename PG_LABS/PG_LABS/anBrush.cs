@@ -31,7 +31,6 @@ namespace PG_LABS
                 for (int bx = 0; bx < 5; bx++)
                     myBrush.SetPixel(ax, bx, Color.Red);
 
-
             myBrush.SetPixel(0, 2, Color.Black);
             myBrush.SetPixel(1, 2, Color.Black);
 
