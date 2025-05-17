@@ -50,6 +50,18 @@ namespace PG_LABS
 
             ProgrammDrawingEngine = new anEngine(AnT.Width, AnT.Height, AnT.Width, AnT.Height);
 
+            MessageBox.Show(
+     $"{AnT.Width} {AnT.Height}",
+     "Сообщение",
+     MessageBoxButtons.YesNo,
+     MessageBoxIcon.Information,
+     MessageBoxDefaultButton.Button1,
+     MessageBoxOptions.DefaultDesktopOnly);
+
+
+
+
+
             RenderTimer.Start();
 
             LayersControl.Items.Add("Главный слой", true);

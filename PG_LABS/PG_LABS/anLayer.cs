@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 using Tao.OpenGl;
 
 namespace PG_LABS
@@ -135,6 +136,13 @@ namespace PG_LABS
                 {
                     if (DrawPlace[ax, bx, 3] != 1)
                     {
+                        MessageBox.Show(
+                         "Выберите один из вариантов",
+                         "Сообщение",
+                         MessageBoxButtons.YesNo,
+                         MessageBoxIcon.Information,
+                         MessageBoxDefaultButton.Button1,
+                         MessageBoxOptions.DefaultDesktopOnly);
                         count++;
                     }
                 }
