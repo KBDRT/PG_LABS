@@ -166,8 +166,6 @@ namespace PG_LABS
                 }
             }
 
-            Gl.glEnable(Gl.GL_VERTEX_ARRAY);
-            Gl.glEnable(Gl.GL_COLOR_ARRAY);
 
             Gl.glEnableClientState(Gl.GL_VERTEX_ARRAY);
             Gl.glEnableClientState(Gl.GL_COLOR_ARRAY);
@@ -176,9 +174,6 @@ namespace PG_LABS
             Gl.glVertexPointer(2, Gl.GL_INT, 0, arr_date_vertex);
 
             Gl.glDrawArrays(Gl.GL_POINTS, 0, count);
-
-            Gl.glDisable(Gl.GL_VERTEX_ARRAY);
-            Gl.glDisable(Gl.GL_COLOR_ARRAY);
 
             Gl.glDisableClientState(Gl.GL_COLOR_ARRAY);
             Gl.glDisableClientState(Gl.GL_VERTEX_ARRAY);
