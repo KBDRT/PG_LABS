@@ -169,6 +169,8 @@ namespace PG_LABS
             Gl.glEnable(Gl.GL_VERTEX_ARRAY);
             Gl.glEnable(Gl.GL_COLOR_ARRAY);
 
+            Gl.glEnableClientState(Gl.GL_VERTEX_ARRAY);
+            Gl.glEnableClientState(Gl.GL_COLOR_ARRAY);
 
             Gl.glColorPointer(3, Gl.GL_FLOAT, 0, arr_date_colors);
             Gl.glVertexPointer(2, Gl.GL_INT, 0, arr_date_vertex);
@@ -177,6 +179,10 @@ namespace PG_LABS
 
             Gl.glDisable(Gl.GL_VERTEX_ARRAY);
             Gl.glDisable(Gl.GL_COLOR_ARRAY);
+
+            Gl.glDisableClientState(Gl.GL_COLOR_ARRAY);
+            Gl.glDisableClientState(Gl.GL_VERTEX_ARRAY);
+
         }
 
         public Color GetColor() => ActiveColor;
